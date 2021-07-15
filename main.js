@@ -15,7 +15,6 @@ fetch('http://hp-api.herokuapp.com/api/characters')
   <p>${element.species}</p>
   <p>${element.dateOfBirth}</p>
   <p>${element.ancestry}</p>
-    
     </div>
 </div>
 
